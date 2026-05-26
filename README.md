@@ -10,7 +10,7 @@
 
 - UI/UX
 - Frontend
-- Docker básico
+- Docker 
 - Linux y servidores básicos
 - Diseño responsive
 - Base de datos 

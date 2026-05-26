@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=66A9ED&height=100&section=header&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
-</p>
-
 # Hola 👋 Soy Annie
 
 🎨 Interesada en UI/UX y desarrollo frontend 💻
@@ -17,6 +13,7 @@
 - Docker básico
 - Linux y servidores básicos
 - Diseño responsive
+- Base de datos 
 
 ---
 
@@ -28,6 +25,8 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=C792EA&size=24&center=true&vCenter=true&width=500&lines=UI%2FUX+Learner;Frontend+Learner;Figma+✨;Siempre+aprendiendo+🌸"/>

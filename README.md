@@ -44,13 +44,6 @@
   
 ---
 
-## 🌎 Idiomas
-
-- Español
-- Inglés básico 🤭
-
----
-
 ## 📫 Contacto
 
 📧 Annielopez644@gmail.com

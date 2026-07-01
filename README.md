@@ -11,7 +11,7 @@
 - Docker 🐳
 - Linux y servidores VPS
 - FastAPI
-- UI/UX
+- Diseño UI/UX
 - Bases de datos SQL
 
 ---

@@ -27,7 +27,7 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C792EA&size=24&center=true&vCenter=true&width=500&lines=UI%2FUX+Learner;Diseñando+interfaces ✨;Aprendiendo+cada+día+🌸;Figma+❤️;Frontend+Developer+💻"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=C792EA&size=24&center=true&vCenter=true&width=500&lines=Creative+UI%2FUX;Frontend+Developer;Designing+beautiful+interfaces;Always+learning"/>
 </p>
 
 ---

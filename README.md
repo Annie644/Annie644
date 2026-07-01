@@ -8,12 +8,10 @@
 
 ## 🚀 Actualmente aprendiendo
 
-- UI/UX
-- Frontend
-- Docker 
+- Docker
 - Linux y servidores básicos
-- Diseño responsive
-- Base de datos 
+- Bases de datos
+- Buenas prácticas de UI/UX
 
 ---
 
@@ -29,18 +27,18 @@
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 <br>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=C792EA&size=24&center=true&vCenter=true&width=500&lines=UI%2FUX+Learner;Frontend+Learner;Figma+✨;Siempre+aprendiendo+🌸"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=C792EA&size=24&center=true&vCenter=true&width=500&lines=UI%2FUX+Learner;Diseñando+interfaces ✨;Aprendiendo+cada+día+🌸;Figma+❤️;Frontend+Developer+💻"/>
 </p>
 
 ---
 
 ## 🎯 Intereses
 
-- Diseño UI/UX
-- Desarrollo frontend
-- Interfaces modernas
+- Crear interfaces intuitivas
 - Diseño responsive
-- Tecnología y aprendizaje continuo
+- Accesibilidad web
+- Experiencia de usuario
+- Aprendizaje continuo
   
 ---
 
